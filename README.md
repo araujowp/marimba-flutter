@@ -1,16 +1,28 @@
-# marimba
+<p align="center">
+  <img width="800" height="200" src="https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/banner_polimorfismo.png">
+</p>
 
-A new Flutter application.
+# Marimba 🎹
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
+Nesse módulo, nós mergulharemos em mais conceitos de programação em Dart e aprenderemos como usar os pacotes Flutter. Ao final desse módulo, você deve estar confortável usando pacotes Flutter e construindo widgets repetitivos. 
 
-A few resources to get you started if this is your first Flutter project:
+## O que nós iremos criar?
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Vamos fazer um aplicativo de música que reproduz os sons de um Marimba. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img width="219" height="439" src="https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/marimba-flutter.png">
+</p>
+
+## O que nós iremos aprender?
+
+* Como incorporar bibliotecas de código aberto ao seu projeto usando os pacotes do Flutter (Flutter packages).
+* Como reproduzir sons no iOS e Android.
+* Como evitar a repetição de linhas de códigos para widgets similares.
+* Como usar as funções do Dart para receber argumentos de entrada, bem como retornar alguma saída.
+* A sintaxe de seta (do inglês, Arrow Functions) do Flutter para escrever funções em apenas uma linha. 
+
+
+>O curso completo pode ser encontrado gratuitamente no nosso canal do YouTube [Polimorfismo](https://youtube.com/channel/UCN0xtkhf8j2R6n1xKYCiJBA/).
